@@ -1,0 +1,9 @@
+C:\Users\Дмитрий\source\repos\GenericAdminApp\Croco.Common\bin\Debug\netcoreapp3.1\Croco.Common.deps.json
+C:\Users\Дмитрий\source\repos\GenericAdminApp\Croco.Common\bin\Debug\netcoreapp3.1\Croco.Common.dll
+C:\Users\Дмитрий\source\repos\GenericAdminApp\Croco.Common\bin\Debug\netcoreapp3.1\Croco.Common.pdb
+C:\Users\Дмитрий\source\repos\GenericAdminApp\Croco.Common\obj\Debug\netcoreapp3.1\Croco.Common.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\GenericAdminApp\Croco.Common\obj\Debug\netcoreapp3.1\Croco.Common.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\GenericAdminApp\Croco.Common\obj\Debug\netcoreapp3.1\Croco.Common.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\GenericAdminApp\Croco.Common\obj\Debug\netcoreapp3.1\Croco.Common.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\GenericAdminApp\Croco.Common\obj\Debug\netcoreapp3.1\Croco.Common.dll
+C:\Users\Дмитрий\source\repos\GenericAdminApp\Croco.Common\obj\Debug\netcoreapp3.1\Croco.Common.pdb

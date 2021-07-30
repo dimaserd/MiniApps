@@ -1,0 +1,14 @@
+<h1 mat-dialog-title>{{header}}</h1>
+<div mat-dialog-content>
+    <mat-form-field class="w-100" appearance="fill">
+        <mat-label>ФИО</mat-label>
+        <input type="some-text" [(ngModel)]="tenant.name" matInput>
+    </mat-form-field>
+    <mat-form-field class="w-100" appearance="fill">
+        <mat-label>Номер телефона</mat-label>
+        <input [(ngModel)]="tenant.phoneNumber" matInput>
+    </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-button class="btn btn-primary" (click)="addRecord()">Записать на корт</button>
+</div>

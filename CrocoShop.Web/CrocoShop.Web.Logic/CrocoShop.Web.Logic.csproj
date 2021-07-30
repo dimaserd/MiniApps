@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Croco.WebApplication" Version="2.1.6" />
+    <PackageReference Include="Croco.Core.Logic" Version="1.1.9" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.2.0" />
+    <PackageReference Include="Zoo.Croco.Clt" Version="0.9.9" />
+    <PackageReference Include="Zoo.Croco.Ecc" Version="0.9.13" />
+    <PackageReference Include="Zoo.Croco.Shop.DataImporter" Version="0.9.7" />
+    <PackageReference Include="Zoo.Croco.Shop.Dlv" Version="0.9.2" />
+    <PackageReference Include="Zoo.Croco.Shop.Prd" Version="0.9.4" />
+    <PackageReference Include="Zoo.GenericUserInterface" Version="1.0.13" />
+    <PackageReference Include="Zoo.ServerJs" Version="1.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CrocoShop.Web.Model\CrocoShop.Web.Model.csproj" />
+  </ItemGroup>
+  
+</Project>

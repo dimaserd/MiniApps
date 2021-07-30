@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+/CrocoShop.Web/.vs/CrocoShop.Web
+/CrocoShop.Web/Croco.Common/bin
+*.db
+/CrocoShop.Web/CrocoShop.Web.Api/bin
+/CrocoShop.Web/CrocoShop.Web.Api/obj
+/CrocoShop.Web/CrocoShop.Web.Logic/bin
+/CrocoShop.Web/CrocoShop.Web.Logic/obj
+/CrocoShop.Web/CrocoShop.Web.Model/bin
+/CrocoShop.Web/CrocoShop.Web.Model/obj
